@@ -1,0 +1,26 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE specific files (e.g., PyCharm)
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore environment specific files
+.env
+
+# Ignore logs and other generated files
+logs/
+*.log
+*.swp
+*.out
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
